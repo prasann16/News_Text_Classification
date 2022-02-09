@@ -23,7 +23,7 @@ The explanation for the main sections in the file are as follows:
 5. Implementing Doc2vec
 - This section contains the approach use for training vectors on Doc2Vec model, inferring test vectors from the model and then using the trained vectors as inputs into svm classifier.
 
-6. Evaluating classifierst
+6. Evaluating classifiers
 - This section compared the classifiers in terms of their accuracy and f1 scores
 
 7. Evaluation of final model
